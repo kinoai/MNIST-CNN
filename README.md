@@ -1,6 +1,6 @@
 # MNIST-CNN
 
-This is my implementation of the CNN. The project was done mainly for educational purposes and to make sure I have a good grasp on the basics of neural networks. 
+A from-scratch implementation of the basic CNN architecture, developed by a Sekcja Sztucznej Inteligencji member Eldar Aliekpierov in 2023.
 
 # How does it work?
 
